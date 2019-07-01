@@ -5,3 +5,5 @@
 2. fetching into local origin
 
 3. Repo branch creation
+
+4. Editinging branch in git
